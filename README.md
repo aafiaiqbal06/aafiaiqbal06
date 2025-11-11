@@ -7,11 +7,11 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🔭 I'm a <b> beginner in programming. </b>
-- 🌱 Currently Learning <b> Front-end web development, flutter app development and DSA </b>
+- 🔭 I'm an aspiring Software Developer. </b>
+- 🌱 Currently Learning <b> Data Structures Algorithms, Web App Development and Competitive Programming. </b>
 
-- 🌱 Pursuing **Btech in ECE-AI at IGDTUW**
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 Pursuing **Btech in AIML at IGDTUW**
+- 👯 I’m looking to collaborate on open source projects. 
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/aafiaiqbal06)
 
